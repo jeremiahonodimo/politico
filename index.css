@@ -1,0 +1,43 @@
+
+
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 50%;
+    margin-left:275px;
+    overflow:hidden;
+}
+
+.container{
+    
+    margin-top: 40%;
+    height: 250px;
+}
+form{
+    margin-left: 150px;
+    
+}
+input{
+    width:80%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: blue;
+    color:beige;
+}
+h2{
+    text-align: center;
+}
+button{
+    width: 82%;
+    height: 37px;
+    border-radius: 10px;
+    border:none;
+    background-color: gray;
+    margin-top: 5px;
+    color:beige;
+}
+button:hover{
+    background-color: blue;
+}
+button:active{
+    background-color: brown;
+}
