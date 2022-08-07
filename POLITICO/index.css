@@ -1,0 +1,58 @@
+body{
+    height: 100px;
+    width: 100px;
+}
+
+.sidebar {
+    height: 600px;
+    width: 200px;
+    background-color: blue;
+    position: absolute;
+}
+
+main{
+    align-items: center;
+    margin-left: 250px;
+    margin-top: 90px;
+    
+}
+p{
+    color: blueviolet;
+    width: 350px;
+}
+
+input{
+    width: 250px;
+    height: 20px;
+}
+
+.container-2{
+    margin-left: 700px;
+    position: absolute;
+    
+
+}
+th,td{
+    border:1px solid black;
+    margin-right: 2px;
+    width: 120px;
+}
+
+.container-2 button{
+    margin-left: 400px;
+    display: inline;
+    margin-bottom: 10px;
+    
+}
+
+th,td{
+    background-color: aqua;
+    column-width: 200px;
+}
+.container-2, .container{
+    background-color: white;
+}
+ input{
+    width:370px;
+}
+
